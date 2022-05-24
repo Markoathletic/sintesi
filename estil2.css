@@ -1,0 +1,99 @@
+ul{
+    padding: 40px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+html{
+    padding: 30px;
+}
+
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#atras1{
+    width: 80px;
+    height: 55px;
+}
+
+.arduino{
+    width: 390px;
+    height: 300px;
+}
+.pmotor{
+    width: 340px;
+    height: 300px;
+}
+
+.psensor{
+    width: 360px;
+    height: 310px;
+}
+
+.motor{
+    width: 400px;
+    height: 230px;
+}
+
+.sensor{
+    width: 340px;
+    height: 300px;
+}
+
+.sensor2{
+    width: 350px;
+    height: 300px;
+}
+
+.rueda{
+    width: 340px;
+    height: 300px;
+}
+
+.base{
+    width: 350px;
+    height: 300px;
+}
+
+.soporte{
+    width: 350px;
+    height: 300px;
+}
+
+.cable{
+    width: 350px;
+    height: 300px;
+}
+
+.soporte2{
+    width: 350px;
+    height: 300px;
+}
+
+.caja{
+    width: 350px;
+    height: 300px;
+}
+
+.pila{
+    width: 320px;
+    height: 300px;
+}
+
+.tornillo{
+    width: 365px;
+    height: 340px;
+}
+
+.destornillador{
+    width: 365px;
+    height: 340px;
+}
+
+.herramientas{
+    width: 365px;
+    height: 340px;
+}
